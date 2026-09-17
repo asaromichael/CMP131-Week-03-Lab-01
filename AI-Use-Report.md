@@ -50,4 +50,4 @@ Response: Nothing really I just needed a reminder.
 
 Provide any additional information about your use of AI for this lab.
 
-Response: 
+Response:

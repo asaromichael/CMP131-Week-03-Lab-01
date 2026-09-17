@@ -1,4 +1,4 @@
-# Student Name
+# Michael Asaro
 # CMP 131
 # Week 3
 # Lab 1
